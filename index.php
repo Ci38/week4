@@ -2,7 +2,7 @@
 
 $date =  date('Y-m-d', time());
 echo "The value of \$date: ".$date."<br>";
-
+echo Hi;
 $tar = "2017/05/24";
 echo "The value of \$tar: ".$tar."<br>";
 
